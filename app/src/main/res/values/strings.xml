@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="edit_message">Enter Value</string>
+    <string name="button_send">Login</string>
+    <string name="text_view"></string>
+    <string name="text_view1"></string>
+    <string name="text_view2"></string>
+    <string name="text_view4"></string>
+    <string name="text_view5"></string>
+    <string name="text_view6"></string>
+
+    <string-array name="units">
+        <item>Celsius</item>
+        <item>Kilograms</item>
+        <item>Metre</item>
+        <item>Litre</item>
+    </string-array>
+</resources>
